@@ -1,0 +1,19 @@
+#include "toppar/martini_v3.0.0.itp"
+#include "toppar/martini_v3.0.0_ions_v1.itp"
+#include "toppar/martini_v3.0.0_phospholipids_v1.itp"
+#include "toppar/martini_v3.0.0_solvents_v1.itp"
+#include "toppar/martini_v3.0_phosphoinositides_v1.0.itp"
+#include "toppar/molecule_0.itp"
+
+[ system ]
+; name
+INSANE!
+
+[ molecules ]
+; name  number
+POPC          1792
+POPS           204
+SAP2            52
+W            31701
+NA             406
+molecule_0       1
