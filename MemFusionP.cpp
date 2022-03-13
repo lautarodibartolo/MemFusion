@@ -157,6 +157,7 @@ namespace PLMD
                 }
                 
                 // Shared variables.
+                #pragma omp critical
                 ZuMemcos += ZuMemcos_loc / UMEM.size();
                 ZuMemsin += ZuMemsin_loc / UMEM.size();
                 ZlMemcos += ZlMemcos_loc / UMEM.size();
