@@ -10,4 +10,4 @@ Installation:
 
 Example folder contains all files needed for MD to fuse bilayers with one Syt1-C2B domain.
 
-If you prefer the new parallel version of the CV, download **MemFusionP.cpp** instead of **MemFusion.cpp** and follow the same process as above. An example folder for the parallel release of the CV is available.
+Update 1: If you prefer the new parallel version of the CV, download **MemFusionP.cpp** instead of **MemFusion.cpp** and follow the same process as above. An example folder for the parallel release of the CV is available.
