@@ -18,7 +18,7 @@ ns_type                  = grid
 pbc                      = xyz
 verlet-buffer-tolerance  = 0.005
 
-epsilon_r                = 2.5
+epsilon_r                = 2.5  ; with polarizable water, otherwise use 15
 coulombtype              = reaction-field
 rcoulomb                 = 1.1
 vdw_type                 = cutoff
